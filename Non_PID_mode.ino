@@ -307,5 +307,7 @@ void loop()
   tagertRotate=((timer2+4130.841176)/1447.25941)/(0.09004*3.14159265359*1.01);//this is the formula used to determine the number of rotations
  //unit of rotation                  
  } 
- Serial.println(" ey     ");
+ Serial.println("      ");
+ Serial.println("this is a line");
+
 }
